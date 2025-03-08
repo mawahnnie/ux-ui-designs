@@ -1,7 +1,7 @@
 
 # UX/UI Design Showcase
 
-Welcome to my collection of UX/UI design projects! This repository contains various design works, including wireframes, prototypes, and UI designs
+Welcome to my collection of UX/UI design projects. This repository contains various design works, including wireframes, prototypes, and UI designs
 that demonstrate my skills and design process.
 
 ## About This Repository
